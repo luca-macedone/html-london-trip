@@ -226,3 +226,12 @@ section img {
     box-shadow: rgb(44, 116, 179) 0px 2px 4px;
 
 }
+
+footer {
+
+    text-align: center;
+    color: #FFFFFF;
+
+    margin: 1em 0 2em;
+
+}
